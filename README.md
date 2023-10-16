@@ -1,7 +1,9 @@
 # Game-Jam-Template-4
-Game jam template for Godot 4
+
+Game jam template for Godot 4 ported to Swift
 
 ## Features
+
 * Dialogue system
 * Settings & keybinds
 * Saving and loading
